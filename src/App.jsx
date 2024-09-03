@@ -107,7 +107,7 @@ let day = d.getDate();
 
   <div class="card-header">
     <span>{count}</span>
-    <span>{month1[month]} {day+1} </span>
+    <span>{month1[month]} {day} </span>
   </div>
 
   <span class="temp">{temp}°</span>
